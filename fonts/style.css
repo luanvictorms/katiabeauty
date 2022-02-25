@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Nigthwel';
+    src: local('Nigthwel Regular'), local('Nigthwel-Regular'),
+        url('Nigthwel.woff2') format('woff2'),
+        url('Nigthwel.woff') format('woff'),
+        url('Nigthwel.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
