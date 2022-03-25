@@ -7,8 +7,11 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Projeto-Teknisa)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Projeto-Teknisa)
 
+<img src="https://user-images.githubusercontent.com/82541610/160162630-aafdfbb0-864f-4f9e-9be6-09a35f36e7a3.png" alt="Minha Figura">
+##Projeto Funcional em MOBILE.
 
 > Site para landing page promocional familiar
+> https://katiabeautyautomake.netlify.app/
 
 
 ## 📫 Contribuindo para <Katia Beauty>
