@@ -1,11 +1,11 @@
 # Katia Beauty
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/README-template?Projeto-Teknisa)
-![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/README-template?Projeto-Teknisa)
-![GitHub forks](https://img.shields.io/github/forks/luanvictorms/README-template?Projeto-Teknisa)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Projeto-Teknisa)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Projeto-Teknisa)
+![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/katiabeauty)
+![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/katiabeauty)
+![GitHub forks](https://img.shields.io/github/forks/luanvictorms/katiabeauty)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/katiabeauty)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/katiabeauty)
 
 <img src="https://user-images.githubusercontent.com/82541610/160162630-aafdfbb0-864f-4f9e-9be6-09a35f36e7a3.png" alt="Minha Figura">
 ##Projeto Funcional em MOBILE.
